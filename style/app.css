@@ -38,7 +38,7 @@
 };
 
 * {
-  font-family: 'Mononoki', Courier, monospace;
+  font-family: 'Mononoki', monospace;
   padding: 0;
   margin: 0;  
   font-size: 40px;  
@@ -170,7 +170,7 @@ a:hover{
   padding: 5px;
   margin-top: 15px;
   width: auto;
-  font-size:  35px;
+  font-size:  25px;
  }
 
 #m1{
