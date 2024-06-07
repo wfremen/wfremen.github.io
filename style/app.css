@@ -177,7 +177,7 @@ a:hover{
 }
 
 td {
-  width: 45px;
+  width: auto;
   padding: 10px;
   border-radius: 10px;
   text-align: center;
