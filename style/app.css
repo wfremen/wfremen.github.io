@@ -141,7 +141,7 @@ hr{
   border-radius: 25px;
   background-color: var(--main-bg2);
   color: var(--main-fg);
-  font-size: 25px;
+  font-size: 55px;
 } 
 
 a {
@@ -169,7 +169,7 @@ a:hover{
   justify-content: space-evenly;
   padding: 5px;
   margin-top: 15px;
-  width: 250px;
+  width: auto;
   font-size:  35px;
  }
 
