@@ -123,7 +123,7 @@ hr{
   outline: none;
   border: none;
   background-color:var(--main-bg2);
-  font-size: 18px;
+  font-size: 25px;
 }
 
 .button {
@@ -132,7 +132,7 @@ hr{
   border: none;
   background-color: var(--main-bg2);
   color: var(--main-fg);
-  font-size: 18px;
+  font-size: 25px;
 }
 
 #toggleButton {
@@ -141,7 +141,7 @@ hr{
   border-radius: 25px;
   background-color: var(--main-bg2);
   color: var(--main-fg);
-  font-size: 18px;
+  font-size: 25px;
 } 
 
 a {
